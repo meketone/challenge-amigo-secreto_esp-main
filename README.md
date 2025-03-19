@@ -1,14 +1,5 @@
 # 🎲 Juego Amigo Secreto  
 
-## 📌 Índice  
-- [Descripción del Proyecto](#descripción-del-proyecto)  
-- [Funcionalidades](#funcionalidades)  
-  - [Agregar Nombres](#agregar-nombres)  
-  - [Validar Entrada](#validar-entrada)  
-  - [Visualizar la Lista](#visualizar-la-lista)  
-  - [Sorteo Aleatorio](#sorteo-aleatorio)  
-- [Recursos](#recursos)  
-- [Desarrollador](#desarrollador)  
 
 ## 🏷️ Descripción del Proyecto  
 Esta aplicación permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién será el "amigo secreto".  
