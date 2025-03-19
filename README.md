@@ -31,7 +31,6 @@ Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un n
 
 ## 📌 Recursos  
 - HTML, CSS y JavaScript  
-- Frameworks o librerías opcionales según implementación  
 
 ## 👨‍💻 Desarrollador  
 **Nombre del desarrollador**  
