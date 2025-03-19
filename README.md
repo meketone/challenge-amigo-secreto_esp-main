@@ -1,25 +1,47 @@
-🎲 juego-amigo-secreto Badge en Desarollo GitHub Org's stars
-Índice
-Índice
-Descripción del proyecto
-Funcionalidades
-Agregar nombres
-Validar entrada
-Visualizar la lista
-Sorteo Aleatorio
-Reiniciar Sorteo
-Eliminar o remover amigo
-Recursos
-Desarrollador
-🏷️ Descripción
-Aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
+# 🎲 Juego Amigo Secreto  
 
-El usuario deberá agregar nombres mediante un campo de texto y un botón "Añadir".
+## 📌 Índice  
+- [Descripción del Proyecto](#descripción-del-proyecto)  
+- [Funcionalidades](#funcionalidades)  
+  - [Agregar Nombres](#agregar-nombres)  
+  - [Validar Entrada](#validar-entrada)  
+  - [Visualizar la Lista](#visualizar-la-lista)  
+  - [Sorteo Aleatorio](#sorteo-aleatorio)  
+- [Recursos](#recursos)  
+- [Desarrollador](#desarrollador)  
 
-Los nombres ingresados se mostrarán en una lista visible en la página.
+## 🏷️ Descripción del Proyecto  
+Esta aplicación permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién será el "amigo secreto".  
 
-Al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
+### 🔹 Características principales:  
+- Los usuarios pueden agregar nombres mediante un campo de texto y un botón "Añadir".  
+- Los nombres ingresados se mostrarán en una lista visible en la página.  
+- Un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria y mostrará el resultado en pantalla.  
 
-⚒️ Funcionalidades
-Agregar nombres
+## ⚒️ Funcionalidades  
+
+### ➕ Agregar Nombres  
 Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
+![image](https://github.com/user-attachments/assets/cc4d1d9d-e822-4bc8-a75e-205cc2423c7c)
+![image](https://github.com/user-attachments/assets/f3b3a1ed-2e5b-493c-b59b-f1bb62782595)
+
+### ✅ Validar Entrada  
+Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido antes de agregarlo.  
+![image](https://github.com/user-attachments/assets/244f5246-1424-481b-b820-534934c2b080)
+
+### 📋 Visualizar la Lista  
+Los nombres ingresados aparecerán en una lista debajo del campo de entrada para facilitar su visualización.  
+![image](https://github.com/user-attachments/assets/dd6fb1ca-bd58-4fff-9a95-1f86e8c32a39)
+
+### 🎲 Sorteo Aleatorio (Botón "Sortear Amigo")  
+Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en pantalla.  
+![image](https://github.com/user-attachments/assets/dd75d862-56f1-43d8-a9e2-bad26c780f27)
+
+## 📌 Recursos  
+- HTML, CSS y JavaScript  
+- Frameworks o librerías opcionales según implementación  
+
+## 👨‍💻 Desarrollador  
+**Nombre del desarrollador**  
+📧 Contacto: [meketone17@gmail.com](mailto:meketone17@gmail.com)  
+📌 GitHub: [github.com/meketone](https://github.com/meketone)  
