@@ -1,12 +1,6 @@
 # 🎲 Juego Amigo Secreto 
 ![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-https://img.shields.io/discourse/status
-
-
-
-
-
 
 ## 🏷️ Descripción del Proyecto  
 Esta aplicación permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién será el "amigo secreto".  
