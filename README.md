@@ -33,6 +33,6 @@ Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un n
 - HTML, CSS y JavaScript  
 
 ## 👨‍💻 Desarrollador  
-**Nombre del desarrollador**  
+**Miguel M.R.**  
 📧 Contacto: [meketone17@gmail.com](mailto:meketone17@gmail.com)  
 📌 GitHub: [github.com/meketone](https://github.com/meketone)  
