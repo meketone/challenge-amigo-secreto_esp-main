@@ -1,4 +1,7 @@
-# 🎲 Juego Amigo Secreto  
+# 🎲 Juego Amigo Secreto 
+
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
 
 
 
